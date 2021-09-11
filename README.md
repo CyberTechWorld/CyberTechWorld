@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p><img width="400px" height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberTechWorld&layout=compact&&theme=tokyonight" alt="CyberTechWorld" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberTechWorld&style=flat-square" alt="CyberTechWorld" /> </p>
+
 
 
                                                                                           
