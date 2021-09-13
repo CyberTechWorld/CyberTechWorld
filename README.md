@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
-<h3 align="center">I am a developer from India 🇮🇳</h1>
+<h3 align="center">I am a Tech Enthusiast from India 🇮🇳</h1>
 <!--
 <h3 align="center">A Tech Enthusiast from India 🇮🇳</h3>
 -->
