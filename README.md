@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h3 align="center">I am a developer from India 🇮🇳</h1>
 <!--
-<h3 align="center">A developer from India 🇮🇳</h3>
+<h3 align="center">A Tech Enthusiast from India 🇮🇳</h3>
 -->
 <img src="https://i.imgur.com/VP9QIDJ.gif" width="180px" height="180px" align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberTechWorld&&show_icons=true&&theme=tokyonight" />
